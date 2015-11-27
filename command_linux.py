@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
+#Coded by Zirou
+#NoSafe Rulez
 
 import sys
 import os
