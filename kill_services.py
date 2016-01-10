@@ -12,4 +12,4 @@ import os
 s = ["apache2", "bluetooth", "mysql", "postgresql"]
 
 for i in s:
-    os.system("sudo service %s stop" %i)
+    os.system("service %s stop" %i) #removed command sudo,for security reasons
