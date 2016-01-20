@@ -1,3 +1,3 @@
 # Linux
 
-small code in linux
+small code to linux
